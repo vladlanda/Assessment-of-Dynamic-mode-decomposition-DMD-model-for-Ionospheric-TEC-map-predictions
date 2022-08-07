@@ -16,3 +16,5 @@ corsponding to a choosen date and place it inside ./gLAB/files/disturbance (or q
 ###see 27_10_2014 date example.
 4. The generated files will be in the output directory. 
 5.Use "gLab_output.ipynb" file inorder to generate the NEU graphs.
+
+Check for more details here : [www.vladlanda.com](https://www.vladlanda.com/assessment-of-dynamic-mode-decomposition-dmd-model-for-ionospheric-tec-map-predictions)
